@@ -75,7 +75,7 @@ Github:
 
 Profile link : https://github.com/Mxttk
 
-Repo link : https://github.com/Mxttk/ST10084433-TimeBank-POE-V1
+Repo link : https://github.com/Mxttk/ST10084433-POE-PartTwo-TimeBankV2
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Code Attribution:
