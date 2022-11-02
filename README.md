@@ -97,6 +97,8 @@ Implemented feedback:
 
 - Changed binding of combobox in StudyCalc class from an array to a linq statement that retrieves a list from the database
 - Added additional documentation
+- Improved upon UML diagram
+- Added more advanced feautures under DropdownMenuControl project
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I hope this guide will assist you in effectively utilising my time management app!
